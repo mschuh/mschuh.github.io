@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+I am a PhD candidate at Verimag and Kalray.  
+My main topics of research are:
+- Many-Core Architectures
+- Real-Time Operating Systems
+- Response Time Analysis
+
+### Publications
+To come
